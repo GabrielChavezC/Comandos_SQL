@@ -13,6 +13,6 @@ WHERE condition;
 --Example
 ---------------------------
 --Trae los campos de la tabla que cumplan la condición dada.
-SELECT DISTINCT * 
+SELECT * 
 FROM Products
 WHERE Category_ID =="1";
